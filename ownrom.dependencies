@@ -1,16 +1,16 @@
 [
   {
     "repository": "CyanogenMod/android_device_samsung_jf-common",
-    "target_path": "device/samsung/jf-common"
-    "remote":"github"
+    "target_path": "device/samsung/jf-common",
+    "remote":"github",
     "revision":"cm-12.1"
   },
-{
+ {
     "remote":"github",
     "repository":"CyanogenMod/android_device_samsung_qcom-common",
     "target_path":"device/samsung/qcom-common",
     "revision":"cm-12.1"
-},
+ },
 {
     "remote" :"github",
     "repository": "CyanogenMod/android_kernel_samsung_jf",
